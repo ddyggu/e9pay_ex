@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoGeneratorSettingsState">
+    <option name="ignoredFields">
+      <set>
+        <option value="" />
+      </set>
+    </option>
+    <option name="moduleName" value="E9PAY.ADMIN" />
+    <option name="moduleNameToSettings">
+      <map>
+        <entry key="E9PAY">
+          <value>
+            <ModuleSettings>
+              <option name="controllerParentDirectory" value="C:\Users\jonghyun\IdeaProjects\E9PAY\src\main\java" />
+              <option name="dtoParentDirectory" value="C:\Users\jonghyun\IdeaProjects\E9PAY\src\main\java" />
+              <option name="entityPackageName" value="com.e9pay.entity" />
+              <option name="entityParentDirectory" value="C:\Users\jonghyun\IdeaProjects\E9PAY\src\main\java" />
+              <option name="mapperXmlParentDirectory" value="C:\Users\jonghyun\IdeaProjects\E9PAY\src\main\resources" />
+              <option name="repositoryPackageName" value="com.e9pay.repository" />
+              <option name="repositoryParentDirectory" value="C:\Users\jonghyun\IdeaProjects\E9PAY\src\main\java" />
+              <option name="serviceParentDirectory" value="C:\Users\jonghyun\IdeaProjects\E9PAY\src\main\java" />
+              <option name="voParentDirectory" value="C:\Users\jonghyun\IdeaProjects\E9PAY\src\main\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="E9PAY.ADMIN">
+          <value>
+            <ModuleSettings>
+              <option name="controllerParentDirectory" value="C:\Users\jonghyun\IdeaProjects\E9PAY\ADMIN\src\main\java" />
+              <option name="dtoParentDirectory" value="C:\Users\jonghyun\IdeaProjects\E9PAY\ADMIN\src\main\java" />
+              <option name="entityPackageName" value="com.e9pay.entity" />
+              <option name="entityParentDirectory" value="C:\Users\jonghyun\IdeaProjects\E9PAY\ADMIN\src\main\java" />
+              <option name="mapperXmlParentDirectory" value="C:\Users\jonghyun\IdeaProjects\E9PAY\ADMIN\src\main\resources" />
+              <option name="repositoryPackageName" value="com.e9pay.repository" />
+              <option name="repositoryParentDirectory" value="C:\Users\jonghyun\IdeaProjects\E9PAY\ADMIN\src\main\java" />
+              <option name="serviceParentDirectory" value="C:\Users\jonghyun\IdeaProjects\E9PAY\ADMIN\src\main\java" />
+              <option name="voParentDirectory" value="C:\Users\jonghyun\IdeaProjects\E9PAY\ADMIN\src\main\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="DatabaseSettingsState">
+    <option name="database" value="e9pay" />
+    <option name="driverClass" value="org.mariadb.jdbc.Driver" />
+    <option name="driverPath" value="C:\Users\jonghyun\mariadb-java-client-3.1.4.jar" />
+    <option name="url" value="jdbc:mariadb://{host}:{port}/{database}?useSSL=false&amp;useUnicode=true&amp;characterEncoding=UTF-8" />
+  </component>
+</project>

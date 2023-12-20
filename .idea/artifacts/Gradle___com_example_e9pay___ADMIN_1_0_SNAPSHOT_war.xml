@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : com.example.e9pay : ADMIN-1.0-SNAPSHOT.war">
+    <output-path>$PROJECT_DIR$/ADMIN/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <buildTaskPath>:ADMIN:war</buildTaskPath>
+        <cleanTaskPath>:ADMIN:cleanWar</cleanTaskPath>
+      </options>
+    </properties>
+    <root id="archive" name="ADMIN-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Gradle : com.example.e9pay : ADMIN-1.0-SNAPSHOT.war (exploded)" />
+    </root>
+  </artifact>
+</component>

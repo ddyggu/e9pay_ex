@@ -1,0 +1,5 @@
+rootProject.name = 'E9PAY'
+include 'COMMON'
+include 'ADMIN'
+include 'MOBILE'
+

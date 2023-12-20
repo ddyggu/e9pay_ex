@@ -1,0 +1,11 @@
+# 프로젝트 제외 경로
+/.gradle/
+/ADMIN/.gradle/
+/ADMIN/build/
+/ADMIN/build/classes/java/main/
+/ADMIN/src/main/resources/static/node_modules/
+/build/
+/COMMON/build/
+/COMMON/build/classes/java/main/
+/MOBILE/build/
+/MOBILE/build/classes/java/main/

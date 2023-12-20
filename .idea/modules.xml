@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/E9PAY.iml" filepath="$PROJECT_DIR$/.idea/modules/E9PAY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ADMIN/E9PAY.ADMIN.iml" filepath="$PROJECT_DIR$/.idea/modules/ADMIN/E9PAY.ADMIN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ADMIN/E9PAY.ADMIN.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ADMIN/E9PAY.ADMIN.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ADMIN/E9PAY.ADMIN.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ADMIN/E9PAY.ADMIN.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/COMMON/E9PAY.COMMON.iml" filepath="$PROJECT_DIR$/.idea/modules/COMMON/E9PAY.COMMON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/COMMON/E9PAY.COMMON.main.iml" filepath="$PROJECT_DIR$/.idea/modules/COMMON/E9PAY.COMMON.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/COMMON/E9PAY.COMMON.test.iml" filepath="$PROJECT_DIR$/.idea/modules/COMMON/E9PAY.COMMON.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MOBILE/E9PAY.MOBILE.iml" filepath="$PROJECT_DIR$/.idea/modules/MOBILE/E9PAY.MOBILE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MOBILE/E9PAY.MOBILE.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MOBILE/E9PAY.MOBILE.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MOBILE/E9PAY.MOBILE.test.iml" filepath="$PROJECT_DIR$/.idea/modules/MOBILE/E9PAY.MOBILE.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/E9PAY.main.iml" filepath="$PROJECT_DIR$/.idea/modules/E9PAY.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/E9PAY.test.iml" filepath="$PROJECT_DIR$/.idea/modules/E9PAY.test.iml" />
+    </modules>
+  </component>
+</project>

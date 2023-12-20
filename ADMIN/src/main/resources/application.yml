@@ -1,0 +1,25 @@
+spring:
+  profiles:
+    active : local
+
+  datasource:
+    name : e9payTest
+    url : "jdbc:mariadb://localhost/e9pay"
+    username : root
+    password : dkepsdms
+    driver-class-name: org.mariadb.jdbc.Driver
+    hikari:
+      auto-commit: false
+      connection-test-query: SELECT 1
+      minimum-idle: 10
+      maximum-pool-size: 50
+      transaction-isolation: TRANSACTION_READ_UNCOMMITTED
+      pool-name: pool-jiniworld_demo
+
+  web :
+    resources :
+      static-locations : classpath:/static/
+      cache :
+        period : 0
+
+

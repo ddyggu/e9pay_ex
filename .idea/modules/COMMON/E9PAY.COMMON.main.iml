@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":COMMON:main" external.linked.project.path="$MODULE_DIR$/../../../COMMON" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="org.example" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="웹 Gradle : COMMON-1.0-SNAPSHOT.war">
+      <configuration>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../../../COMMON/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../COMMON/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../COMMON/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../COMMON/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../COMMON/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

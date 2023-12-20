@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : org.example : MOBILE-1.0-SNAPSHOT.war">
+    <output-path>$PROJECT_DIR$/MOBILE/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <buildTaskPath>:MOBILE:war</buildTaskPath>
+        <cleanTaskPath>:MOBILE:cleanWar</cleanTaskPath>
+      </options>
+    </properties>
+    <root id="archive" name="MOBILE-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Gradle : org.example : MOBILE-1.0-SNAPSHOT.war (exploded)" />
+    </root>
+  </artifact>
+</component>

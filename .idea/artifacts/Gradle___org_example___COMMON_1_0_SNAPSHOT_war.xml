@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : org.example : COMMON-1.0-SNAPSHOT.war">
+    <output-path>$PROJECT_DIR$/COMMON/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <buildTaskPath>:COMMON:war</buildTaskPath>
+        <cleanTaskPath>:COMMON:cleanWar</cleanTaskPath>
+      </options>
+    </properties>
+    <root id="archive" name="COMMON-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Gradle : org.example : COMMON-1.0-SNAPSHOT.war (exploded)" />
+    </root>
+  </artifact>
+</component>
